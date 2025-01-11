@@ -1,6 +1,6 @@
 # daily_hack
 
-A new Flutter project.
+A new Flutter project. Shows top 500 hacker stories. Shows individual users and their posted stories.
 
 ## Getting Started
 
